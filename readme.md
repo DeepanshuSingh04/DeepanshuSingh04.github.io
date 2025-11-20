@@ -8,4 +8,4 @@ This repository contains my static site deployed using GitHub Pages.
 3. The site will update within a minute or two.
 
 ## Live site
-https://YOUR_GITHUB_USERNAME.github.io
+https://DeepanshuSingh04.github.io
